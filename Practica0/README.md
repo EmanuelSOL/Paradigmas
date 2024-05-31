@@ -1,6 +1,6 @@
 # Practica 0 paradigmas
 
-![Img1](/imagenes/1.png)
+![Img1](/Practica0/imagenes/1.png)
 
 Creamos los archivos que vamos a utilizar 
 
