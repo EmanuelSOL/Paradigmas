@@ -4,9 +4,9 @@
 
 Creamos los archivos que vamos a utilizar 
 
-![Imagen1](/Users/emanuelsolis/Desktop/Paradigmas/imagenes/2.png)
+![Imagen2](/Users/emanuelsolis/Desktop/Paradigmas/imagenes/2.png)
 
-![Imagen1](/Users/emanuelsolis/Desktop/Paradigmas/imagenes/3.png)
+![Imagen3](/Users/emanuelsolis/Desktop/Paradigmas/imagenes/3.png)
 
 
 
